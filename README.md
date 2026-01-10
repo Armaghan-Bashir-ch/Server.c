@@ -1,1 +1,1 @@
-# Add a TODO here, When project is conplete
+# Add a TODO here, When project is complete
